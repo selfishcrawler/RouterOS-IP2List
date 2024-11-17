@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IP2List": {
+      "commandName": "Project",
+      "commandLineArgs": "ip.txt ip.rsc firewall"
+    }
+  }
+}
